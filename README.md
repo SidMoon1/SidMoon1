@@ -1,138 +1,249 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f2937,50:374151,100:4b5563&height=160&section=header&text=Mamoon&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
-
-# Hi, I'm Mamoon 👋
-
-**Computer Science Student • iOS Developer (Learning) • Builder at Heart**
-
-📍 Delhi, IN
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display\&weight=500\&size=20\&pause=1000\&color=9CA3AF\&center=true\&vCenter=true\&width=520\&lines=iOS+Developer+in+Progress;Swift+%26+SwiftUI+Learner;Computer+Science+Student;Building+Real+World+Projects;Open+Source+Enthusiast)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1C1C1E&height=200&section=header&text=Hi,%20I'm%20Mamoon%20👋&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20•%20iOS%20Developer%20(Learning)%20•%20Builder%20at%20Heart&descSize=16&descFontColor=EBEBF599&descAlign=50&descAlignY=62&animation=fadeIn)
 
 </div>
 
----
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-I'm a Computer Science Engineering student who enjoys building things from scratch and exploring new technologies. I like turning ideas into real applications — whether it's a mobile app, backend system, or collaborative project.
+<div align="center">
 
-Currently I'm focused on **iOS development**, strengthening my **problem solving skills**, and building projects that reflect real-world software systems.
+📍 &nbsp;Delhi, IN
 
----
+<br/>
 
-# About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2800&pause=1000&color=636366&center=true&vCenter=true&width=540&lines=iOS+Developer+in+Progress+🍎;Swift+%26+SwiftUI+Learner;Computer+Science+Student;Building+Real+World+Projects+🛠️;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-* 🎓 Computer Science Engineering student
-* 📱 Focused on **iOS Development with Swift & SwiftUI**
-* 🔧 Enjoy building practical projects and experimenting with new tools
-* 🐾 Contributor to **PawPing**, a collaborative pet healthcare app
-* 🌱 Continuously learning through hands-on development
+</div>
 
----
+<br/>
 
-# Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      INTRODUCTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+I'm a Computer Science Engineering student who enjoys building applications from the ground up, exploring new technologies, and turning ideas into real, working software. My current focus is on **iOS development** using Swift and SwiftUI — crafting clean, intuitive mobile experiences. Alongside that, I'm actively working on **problem solving**, sharpening my data structures knowledge, and building **real-world projects** that go beyond tutorials.
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 👨‍💻 &nbsp;About Me
+
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+- 🎓 &nbsp;**Computer Science Engineering** student
+- 📱 &nbsp;Focused on **iOS Development** with Swift and SwiftUI
+- 🔧 &nbsp;Enjoy building practical projects and experimenting with tools
+- 🐾 &nbsp;Contributor to **PawPing** — a pet healthcare app
+- 🌱 &nbsp;Continuously learning through hands-on development
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
 ### Languages
 
-|                                                                                                     |                                                                                                   |                                                                                                       |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> |
-| Swift                                                                                               | Java                                                                                              | Python                                                                                                |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/>
+      <br/><sub><b>Swift</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+      <br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Development
 
-|                                                                                                       |                                                                                                     |                                                                                                   |                                                                                                               |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> |
-| Spring Boot                                                                                           | HTML                                                                                                | CSS                                                                                               | JavaScript                                                                                                    |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+      <br/><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+      <br/><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools & Platforms
 
-|                                                                                                     |                                                                                                     |                                                                                                 |                                                                                                                |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/> |
-| Xcode                                                                                               | Figma                                                                                               | Git                                                                                             | GitHub                                                                                                         |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" height="45" alt="Xcode"/>
+      <br/><sub><b>Xcode</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+      <br/><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Database
 
-|                                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> |
-| MySQL                                                                                               |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=2&section=header" width="100%"/>
 
-# Current Focus
+<br/>
 
-* 📱 Building iOS apps using **Swift & SwiftUI**
-* 🛠 Developing **real-world software projects**
-* 🧠 Improving **data structures & problem solving**
-* 🤝 Learning **open source contribution workflows**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENT FOCUS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+## 🎯 &nbsp;Current Focus
 
-# Projects
+- 📱 &nbsp;Building iOS apps using **Swift** and **SwiftUI**
+- 🛠️ &nbsp;Developing real-world software projects end-to-end
+- 🧠 &nbsp;Improving **data structures** and problem-solving skills
+- 🤝 &nbsp;Learning open-source collaboration workflows
 
-## 🐾 PawPing
+<br/>
 
-**Pet Healthcare App • Collaborative Team Project**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=2&section=header" width="100%"/>
 
-PawPing is a pet healthcare application designed to help pet owners manage and monitor their pets' daily wellbeing. The app focuses on providing essential tools for tracking a pet's health and lifestyle in one place.
+<br/>
 
-Key areas of the platform include:
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-• **Activity tracking** to monitor daily pet movement and exercise
-• **Diet management** to maintain proper nutrition records
-• **Vaccination tracking** with reminders and health logs
-• **Allergy records** to help owners manage sensitive conditions
+## 🚀 &nbsp;Projects
 
-The project is being developed by a **team of four contributors**, where we collaborate on feature development, product decisions, and application design.
+### 🐾 &nbsp;PawPing — Pet Healthcare App
 
-**Team:** 4 Developers
-**Status:** In Development
+> *Collaborative team project — 4 developers*
 
----
+**PawPing** is a pet healthcare application designed to help pet owners monitor and manage their pets' overall wellbeing in one place. The platform focuses on keeping pets healthy through structured tracking tools:
 
-## 🏥 Healthcare Management System
+- 🏃 &nbsp;**Activity tracking** — monitor daily movement and exercise
+- 🥗 &nbsp;**Diet management** — log and manage feeding schedules and nutrition
+- 💉 &nbsp;**Vaccination records** — keep immunisation history organised and up to date
+- 🌿 &nbsp;**Allergy tracking** — document and track known allergies and sensitivities
 
-**Backend System • Java · Spring Boot · MySQL**
+The project is being built by a **team of four developers**. As one of the contributors, I'm involved across product decisions, feature development, and application design — collaborating closely to shape both the experience and the codebase.
 
-A backend-focused healthcare system designed to simulate real hospital workflow management. The platform manages patient records, doctor profiles, and appointment scheduling while maintaining structured access control across system roles.
-
-**Key Features**
-
-• Patient record management
-• Appointment scheduling system
-• Doctor profile management
-• Role-based access control
-• Structured backend architecture
+| | |
+|---|---|
+| **Team** | 4 Developers |
+| **Status** | 🟡 In Development |
 
 ---
 
-# Developer Mindset
+### 🏥 &nbsp;Healthcare Management System
+
+> *Backend project — Java · Spring Boot · MySQL*
+
+A backend-focused system built to simulate real hospital workflow management. Designed with a clean layered architecture, the system handles the core operations a healthcare facility depends on.
+
+**Key Features:**
+
+- 🗂️ &nbsp;**Patient record management** — registration, profiles, and history
+- 📅 &nbsp;**Appointment scheduling** — booking and managing patient-doctor appointments
+- 👨‍⚕️ &nbsp;**Doctor profile management** — doctor availability and specialisation
+- 🔐 &nbsp;**Role-based access control** — separate access for admins, doctors, and patients
+- 🏗️ &nbsp;**Structured backend architecture** — clean separation of concerns using DAO and Servlet layers
+
+| | |
+|---|---|
+| **Stack** | Java · Spring Boot · MySQL |
+| **Type** | Backend System |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   DEVELOPER MINDSET                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💭 &nbsp;Developer Mindset
+
+<div align="center">
 
 > *"Stay curious. Build often. Learn continuously."*
 
-The best way to learn software development is by building things, experimenting, breaking them, and improving them again.
+</div>
 
----
+Technology evolves faster than any roadmap can predict. The developers who grow are not the ones who know everything — they're the ones who stay in motion. Every project, no matter how small, builds intuition. Every bug, no matter how frustrating, teaches something. I believe in learning by doing: shipping imperfect things, iterating, and improving. That loop — build, reflect, improve — is what moves a developer forward.
 
-# Connect
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONNECT                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 &nbsp;Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Mamoon%20Siddique-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohdmamoonsiddique)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Mamoon%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdmamoonsiddique)
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-⭐ Always open to learning, collaboration, and interesting ideas.
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:0A0A0A&height=120&section=footer&text=Always%20open%20to%20learning,%20collaboration,%20and%20interesting%20ideas.&fontSize=14&fontColor=EBEBF599&fontAlign=50&fontAlignY=65)
 
 </div>
