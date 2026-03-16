@@ -16,7 +16,7 @@
 
 ### 👋 Introduction
 
-I'm a Computer Science Engineering student who enjoys building applications from scratch, exploring new technologies, and turning ideas into real projects. My current focus includes iOS development, improving problem-solving skills, and building real-world applications.
+I'm a Computer Science Engineering student who enjoys building applications from scratch, exploring new technologies, and turning ideas into real projects. My current focus includes iOS development, improving problem solving skills, and building real world applications.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a Computer Science Engineering student who enjoys building applications from
 - 🍎 Focused on **iOS Development** with Swift and SwiftUI
 - 🛠️ Enjoys building practical projects and experimenting with tools
 - 🐾 Contributor to **PawPing**
-- 🚀 Continuously learning through hands-on development
+- 🚀 Continuously learning through hands on development
 
 ---
 
@@ -91,7 +91,7 @@ I'm a Computer Science Engineering student who enjoys building applications from
 ### 🎯 Current Focus
 
 - 📱 Building iOS apps using **Swift** and **SwiftUI**
-- 🏗️ Developing real-world software projects
+- 🏗️ Developing real world software projects
 - 🧩 Improving data structures and problem-solving
 - 🤝 Learning open-source collaboration workflows
 
@@ -146,7 +146,7 @@ I'm a Computer Science Engineering student who enjoys building applications from
 
 > *"Stay curious. Build often. Learn continuously."*
 
-I believe the best way to grow as a developer is to keep building. Every project — no matter how small — teaches something new. I focus on learning through doing, iterating on ideas, and constantly improving both my code and my thinking.
+I believe the best way to grow as a developer is to keep building. Every project no matter how small teaches something new. I focus on learning through doing, iterating on ideas, and constantly improving both my code and my thinking.
 
 ---
 
