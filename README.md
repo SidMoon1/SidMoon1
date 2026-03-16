@@ -1,157 +1,150 @@
 <div align="center">
 
-# Hi there, I'm Mamoon 👋
+# Mamoon
+**Computer Science Student • iOS Developer (Learning) • Builder at Heart** 📍 Delhi, IN
 
-### Computer Science Student • iOS Developer (Learning) • Builder at Heart
-
-📍 Delhi, IN
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=iOS+Developer+in+Progress;Swift+%26+SwiftUI+Learner;Computer+Science+Student;Building+Real+World+Projects;Open+Source+Enthusiast)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=iOS+Developer+in+Progress;Swift+%26+SwiftUI+Learner;Computer+Science+Student;Building+Real+World+Projects;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👤 About
-
-I'm a Computer Science Engineering student who enjoys building applications from scratch, exploring new technologies, and turning ideas into real projects. My current focus includes iOS development, improving problem-solving skills, and building real-world applications.
-
----
-
-## 🙋 About Me
-
-- 🎓 Computer Science Engineering student
-- 📱 Focused on **iOS Development** with Swift and SwiftUI
-- 🔨 Enjoys building practical projects and experimenting with tools
-- 🐾 Contributor to **PawPing**
-- 📚 Continuously learning through hands-on development
+### 👋 Introduction
+Mamoon is a Computer Science Engineering student who enjoys building applications from scratch, exploring new technologies, and turning ideas into real projects. Current focus includes iOS development, improving problem-solving skills, and building real-world applications.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="45" alt="Swift" title="Swift"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
-</p>
-<p align="left">
-  <sub>&nbsp;&nbsp;&nbsp;Swift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python</sub>
-</p>
-
-### Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" title="HTML"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" title="CSS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
-</p>
-<p align="left">
-  <sub>&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript</sub>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="45" alt="Xcode" title="Xcode"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" title="Figma"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub"/>
-</p>
-<p align="left">
-  <sub>&nbsp;&nbsp;&nbsp;Xcode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub</sub>
-</p>
-
-### Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL"/>
-</p>
-<p align="left">
-  <sub>&nbsp;&nbsp;MySQL</sub>
-</p>
+### 🧑‍💻 About Me
+* 🎓 Computer Science Engineering student
+* 🍎 Focused on iOS Development with Swift and SwiftUI
+* 🛠️ Enjoys building practical projects and experimenting with tools
+* 🐾 Contributor to PawPing
+* 🚀 Continuously learning through hands-on development
 
 ---
 
-## 🎯 Current Focus
+### 💻 Tech Stack
 
-- 📱 Building iOS apps using **Swift** and **SwiftUI**
-- 🔧 Developing real-world software projects
-- 🧠 Improving data structures and problem solving
-- 🌐 Learning open source collaboration workflows
+**Languages**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" /><br>
+      <sub>Swift</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
+
+**Development**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" /><br>
+      <sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br>
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+**Tools & Platforms**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" /><br>
+      <sub>Xcode</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br>
+      <sub>Figma</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+**Database**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Projects
-
-### 🐾 PawPing — Pet Healthcare App
-
-> A pet healthcare application designed to help pet owners manage and monitor their pets' wellbeing.
-
-PawPing focuses on providing a complete wellness platform for pet owners, covering key aspects of everyday pet care and health tracking.
-
-**Key Features:**
-- 🏃 Activity tracking
-- 🥗 Diet management
-- 💉 Vaccination records
-- 🚨 Allergy tracking
-
-| Detail | Info |
-|---|---|
-| 👥 Team | 4 Developers |
-| 🔧 Status | In Development |
-| 👤 Role | Contributor — Feature Development & Product Improvements |
+### 🎯 Current Focus
+* 📱 Building iOS apps using Swift and SwiftUI
+* 🏗️ Developing real-world software projects
+* 🧩 Improving data structures and problem-solving
+* 🤝 Learning open-source collaboration workflows
 
 ---
 
-### 🏥 Healthcare Management System
+### 📂 Projects
 
-> A backend system built using **Java**, **Spring Boot**, and **MySQL** to simulate real hospital workflow systems.
+#### 🐾 PawPing — Pet Healthcare App
+PawPing is a pet healthcare application designed to help pet owners manage and monitor their pets’ wellbeing. The platform focuses on:
+* Activity tracking
+* Diet management
+* Vaccination records
+* Allergy tracking
 
-**Key Features:**
-- 🗂️ Patient record management
-- 📅 Appointment scheduling
-- 👨‍⚕️ Doctor profile management
-- 🔐 Role-based access control
-- 🏗️ Structured backend architecture
+> **Status:** In Development | **Team:** 4 Developers  
+> *Role: Contributor working on feature development and product improvements.*
 
-**Tech:** `Java` `Spring Boot` `MySQL`
+#### 🏥 Healthcare Management System
+A backend system built using Java, Spring Boot, and MySQL to simulate real hospital workflow systems.
+* Patient record management
+* Appointment scheduling
+* Doctor profile management
+* Role-based access control
+* Structured backend architecture
 
 ---
 
-## 💭 Developer Mindset
-
-<div align="center">
+### 🧠 Developer Mindset
 
 > *"Stay curious. Build often. Learn continuously."*
 
-</div>
-
-I believe the best way to grow as a developer is to keep building. Every project — no matter how small — teaches something new. I focus on learning through doing, iterating on ideas, and constantly improving both my code and my thinking.
+True growth as a developer comes from stepping out of the comfort zone and building things that matter. I believe in learning by doing—experimenting with new technologies, breaking things, and building them back stronger. Every bug is a lesson, and every project is a stepping stone toward mastery.
 
 ---
 
-## 🤝 Connect
+### 🔗 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohdmamoonsiddique" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Mamoon%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mohdmamoonsiddique" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<br><br>
 
 <div align="center">
-
-*Always open to learning, collaboration, and interesting ideas.*
-
+  <i>Always open to learning, collaboration, and interesting ideas.</i>
 </div>
